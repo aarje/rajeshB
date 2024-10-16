@@ -1,0 +1,2 @@
+[2024-10-11T06:30:36.457Z] [31merror[39m: employeeController :: getEmployeeById :: logger.error is not a function :: TypeError: logger.error is not a function
+[2024-10-15T15:51:02.324Z] [31merror[39m: employeeController :: getEmployeeById :: logger.error is not a function :: TypeError: logger.error is not a function
