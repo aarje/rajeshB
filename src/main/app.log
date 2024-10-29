@@ -1,2 +1,11 @@
 [2024-10-11T06:30:36.457Z] [31merror[39m: employeeController :: getEmployeeById :: logger.error is not a function :: TypeError: logger.error is not a function
 [2024-10-15T15:51:02.324Z] [31merror[39m: employeeController :: getEmployeeById :: logger.error is not a function :: TypeError: logger.error is not a function
+[2024-10-21T10:31:17.150Z] [31merror[39m: employeeController :: getEmployeeById :: logger.error is not a function :: TypeError: logger.error is not a function
+[2024-10-21T14:13:26.602Z] [31merror[39m: employeeController :: createEmployee :: Error creating employee: E11000 duplicate key error collection: newone.employees index: email_1 dup key: { email: "amul45@gmail.com" } :: Error: Error creating employee: E11000 duplicate key error collection: newone.employees index: email_1 dup key: { email: "amul45@gmail.com" }
+[2024-10-21T14:45:10.713Z] [31merror[39m: employeeController :: createEmployee :: Error creating employee: E11000 duplicate key error collection: newone.employees index: email_1 dup key: { email: "amul45@gmail.com" } :: Error: Error creating employee: E11000 duplicate key error collection: newone.employees index: email_1 dup key: { email: "amul45@gmail.com" }
+[2024-10-21T15:05:20.659Z] [31merror[39m: employeeController :: updateEmployee :: logger.error is not a function :: TypeError: logger.error is not a function
+[2024-10-21T15:09:48.791Z] [31merror[39m: employeeController :: updateEmployee :: logger.error is not a function :: TypeError: logger.error is not a function
+[2024-10-21T15:36:10.221Z] [31merror[39m: employeeController :: updateStatusById :: logger.error is not a function :: TypeError: logger.error is not a function
+[2024-10-23T10:59:30.297Z] [31merror[39m: employeeController :: updateEmployee :: Invalid status code: undefined :: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: undefined
+[2024-10-23T11:04:18.738Z] [31merror[39m: employeeController :: updateEmployee :: logger.error is not a function :: TypeError: logger.error is not a function
+[2024-10-23T15:53:15.786Z] [31merror[39m: employeeController :: createEmployee :: uuidv4 is not defined :: ReferenceError: uuidv4 is not defined
